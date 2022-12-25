@@ -1,6 +1,0 @@
-[submodule "eflete.wiki"]
-	path = eflete.wiki
-	url = git@github.com:dimmus/eflete.wiki.git
-[submodule "wiki"]
-	path = wiki
-	url = git@github.com:dimmus/eflete.wiki.git
